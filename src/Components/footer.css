@@ -1,0 +1,11 @@
+.footer{
+    height: 400px;
+    
+    background-image: url('./footer.png');
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position:center;
+    /* padding: 20px; */
+   
+}
+

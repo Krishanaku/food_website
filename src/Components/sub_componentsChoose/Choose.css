@@ -1,0 +1,21 @@
+.boxs_1{
+    text-align: center;
+    margin-left: 650px;
+    margin-right: 650px;
+    background-color: #FFC02F;
+    /* border-radius: 5px; */
+}
+.boxs_2{
+    text-align: center;
+    font-weight: 900;
+    font-family: 'Cooper Black';
+}
+.text{
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    
+}
+.chooseConatine{
+    gap: 220px;
+}

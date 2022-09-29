@@ -1,0 +1,32 @@
+.try_box{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    height: 500px;
+
+}
+.box1{
+    background-color: rgb(134, 128, 121);
+    background-image: url("./images/popular1.png");
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    
+    
+
+
+}
+.box2{
+    background-color: rgb(134, 128, 121);
+    background-image: url("./images/popular2.png");
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    
+    
+
+
+}
+

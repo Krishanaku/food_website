@@ -1,0 +1,33 @@
+.col h3{
+    font-family: 'Cooper Black';
+}
+.dot1{
+    width: 15px;
+    height: 15px;
+    background: #FFC84D;
+    border: 1px solid #FFC84D;
+    border-radius: 50px;
+    margin-left: 3px;
+    
+}
+.dot2{
+    width: 15px;
+    height: 15px;
+    background: grey;
+    border: 1px solid grey;
+    border-radius: 50px;
+    margin-left: 3px;
+    
+}
+.dot3{
+    width: 15px;
+    height: 15px;
+    background: grey;
+    border: 1px solid grey;
+    border-radius: 50px;
+    margin-left: 3px;
+}
+.dot{
+    position: relative;
+    top: 180px;
+}
